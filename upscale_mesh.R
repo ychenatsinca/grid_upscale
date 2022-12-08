@@ -1,3 +1,6 @@
+# Author name: Yi-Ying Chen 
+# Email: yiyingchen@gate.sinica.edu.tw
+# 
 # load R library 
 library("sp")
 library("rgdal") #readOGR
